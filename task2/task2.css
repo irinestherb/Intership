@@ -1,0 +1,12 @@
+*{
+    background-color: aliceblue;
+    font-size:larger;
+    font-family:'Courier New', Courier, monospace;
+    font-style:normal;
+    font-display:inherit;
+}
+h1{
+    background-image:url('./img/images_013.jpg');
+    font-size:50px;
+    font-family:arial;
+}

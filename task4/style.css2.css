@@ -1,0 +1,49 @@
+*{
+    background-color: red;
+}
+.content{
+    height: 100px;
+    width: 300px;
+    transition: width 15s;
+    background-color: coral;
+}
+.content:hover{
+    color: blue;
+    background-color: green;
+    width: 100px;
+    height: 200px;
+}
+.head2{
+    color:red;
+    font-size: 50px;
+    width: 200px;
+    animation-name: demo;
+    animation-duration: 30s;
+}
+@keyframes demo{
+    from{
+        background-color:red;    
+    }
+    to{
+        background-color:blue;
+    }
+}
+p{
+    column-count: 5;
+    font-size: 20px;
+    font width: 10px;
+    column-rule: 10px solid black;
+
+}
+.heading3{
+    color:blue;
+    background-color: aquva;
+    transform: rotate(20deg);
+    border-radius: 40px;
+}
+@media screen{
+    column-count: 5;
+    
+
+
+}

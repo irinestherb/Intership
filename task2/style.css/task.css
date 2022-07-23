@@ -1,0 +1,11 @@
+*{
+    background color:blue;
+}
+p::first-line{
+    font size:13;
+    font family:arial;
+}
+.ca{
+    color:rgb;
+    text align:center;
+}

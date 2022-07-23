@@ -1,0 +1,17 @@
+.animation {
+    animation-name: demo;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    background-color: blue;
+    color: brown;
+}
+
+@keyframes demo {
+    from {
+        background-color: black;
+    }
+
+    to {
+        background-color: red;
+    }
+}

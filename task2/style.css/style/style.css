@@ -1,0 +1,12 @@
+div {
+    background-color: crimson;
+    opacity: 0.6;
+}
+
+div.first {
+    background-color: blue;
+}
+
+div.second {
+    background-color: blueviolet;
+}
